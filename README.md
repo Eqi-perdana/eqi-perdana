@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Halo, saya Eqi Perdana  
 
-<!--
-**Eqi-perdana/eqi-perdana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya! 🚀  
 
-Here are some ideas to get you started:
+## 🔥 Tentang Saya
+- 🌱 Sedang belajar **Laravel & Next.js**
+- 💼 Tertarik pada **Fullstack Development**
+- 🎯 Fokus: **Aplikasi Absensi & Penjualan**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Laravel](https://img.shields.io/badge/Backend-Laravel-ff2d20?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/Code-PHP-777bb4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479a1?logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap_5-563d7c?logo=bootstrap&logoColor=white)
+
+## 📊 Statistik GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eqiperdana&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eqiperdana&layout=compact&theme=tokyonight)
+
+## ✨ Fun Fact
+> “Koding itu seperti masak, kalau salah bumbu hasilnya bisa aneh 🤣”
