@@ -28,15 +28,6 @@
 
 ---
 
-## 📊 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eqiperdana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eqiperdana&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Follow Media Sosial Saya😁
 <p align="center">
   <a href="https://instagram.com/qiprdn" target="_blank">
