@@ -1,6 +1,13 @@
 # 👋 Halo, saya Eqi Perdana  
 
-Selamat datang di profil GitHub saya! 🚀  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Selamat+Datang+di+GITHUB+EQIalt="Typing SVG" />
+</p>
+
+<p align="center">
+  <!-- Ganti demo.gif dengan gif demo aplikasi kamu di folder docs/screenshots/ -->
+  <img src="docs/screenshots/demo.gif" alt="Profil Eqi" width="780" />
+</p>
 
 ## 🔥 Tentang Saya
 - 🌱 Sedang belajar **Laravel & Next.js**
