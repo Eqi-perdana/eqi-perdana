@@ -1,7 +1,7 @@
 # 👋 Halo, saya Eqi Perdana  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Selamat+Datang+di+GITHUB+EQIalt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Selamat+Datang+di+GITHUB+EQI" alt="Typing SVG" />
 </p>
 
 <p align="center">
